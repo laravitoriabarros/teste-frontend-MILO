@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/teste-frontend-MILO/static/css/main.80d11793.css",
-    "main.js": "/teste-frontend-MILO/static/js/main.91369cbb.js",
+    "main.js": "/teste-frontend-MILO/static/js/main.cf6b0fe3.js",
     "static/media/LARANJA.png": "/teste-frontend-MILO/static/media/LARANJA.e33debaef8e8436fdcd8.png",
     "static/media/download-planilha.png": "/teste-frontend-MILO/static/media/download-planilha.f1988dbb478ce5e279b0.png",
     "static/media/rota.png": "/teste-frontend-MILO/static/media/rota.426ba99ab206b808dc9c.png",
@@ -62,10 +62,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/teste-frontend-MILO/static/media/roboto-greek-ext-700-normal.f54f1cebdcefe4af6446.woff",
     "index.html": "/teste-frontend-MILO/index.html",
     "main.80d11793.css.map": "/teste-frontend-MILO/static/css/main.80d11793.css.map",
-    "main.91369cbb.js.map": "/teste-frontend-MILO/static/js/main.91369cbb.js.map"
+    "main.cf6b0fe3.js.map": "/teste-frontend-MILO/static/js/main.cf6b0fe3.js.map"
   },
   "entrypoints": [
     "static/css/main.80d11793.css",
-    "static/js/main.91369cbb.js"
+    "static/js/main.cf6b0fe3.js"
   ]
 }
