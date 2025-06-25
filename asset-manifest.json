@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/teste-frontend-MILO/static/css/main.80d11793.css",
-    "main.js": "/teste-frontend-MILO/static/js/main.cf6b0fe3.js",
+    "main.css": "/teste-frontend-MILO/static/css/main.d4ce24a6.css",
+    "main.js": "/teste-frontend-MILO/static/js/main.08d1f1e2.js",
     "static/media/LARANJA.png": "/teste-frontend-MILO/static/media/LARANJA.e33debaef8e8436fdcd8.png",
     "static/media/download-planilha.png": "/teste-frontend-MILO/static/media/download-planilha.f1988dbb478ce5e279b0.png",
     "static/media/rota.png": "/teste-frontend-MILO/static/media/rota.426ba99ab206b808dc9c.png",
+    "static/media/deletar.png": "/teste-frontend-MILO/static/media/deletar.708a3c26d96fa9c23ddc.png",
+    "static/media/cadastro.png": "/teste-frontend-MILO/static/media/cadastro.87b3f247be62ff11f2d8.png",
+    "static/media/MUDAR-SENHA.png": "/teste-frontend-MILO/static/media/MUDAR-SENHA.bd1254e6c2bd8aea3c7b.png",
     "static/media/login.png": "/teste-frontend-MILO/static/media/login.43d21dfa8652f4c350f2.png",
+    "static/media/perfil.png": "/teste-frontend-MILO/static/media/perfil.bc1ce213cb1ea3eb3da5.png",
     "static/media/roboto-latin-700-normal.woff2": "/teste-frontend-MILO/static/media/roboto-latin-700-normal.c4d6cab43bec89049809.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/teste-frontend-MILO/static/media/roboto-latin-500-normal.599f66a60bdf974e578e.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/teste-frontend-MILO/static/media/roboto-latin-400-normal.df1be0be92f6f19b8115.woff2",
@@ -61,11 +65,11 @@
     "static/media/roboto-greek-ext-500-normal.woff": "/teste-frontend-MILO/static/media/roboto-greek-ext-500-normal.2b2e1b55c141371f1d4c.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/teste-frontend-MILO/static/media/roboto-greek-ext-700-normal.f54f1cebdcefe4af6446.woff",
     "index.html": "/teste-frontend-MILO/index.html",
-    "main.80d11793.css.map": "/teste-frontend-MILO/static/css/main.80d11793.css.map",
-    "main.cf6b0fe3.js.map": "/teste-frontend-MILO/static/js/main.cf6b0fe3.js.map"
+    "main.d4ce24a6.css.map": "/teste-frontend-MILO/static/css/main.d4ce24a6.css.map",
+    "main.08d1f1e2.js.map": "/teste-frontend-MILO/static/js/main.08d1f1e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.80d11793.css",
-    "static/js/main.cf6b0fe3.js"
+    "static/css/main.d4ce24a6.css",
+    "static/js/main.08d1f1e2.js"
   ]
 }
