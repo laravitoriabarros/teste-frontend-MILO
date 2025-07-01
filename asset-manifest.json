@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/teste-frontend-MILO/static/css/main.d4ce24a6.css",
-    "main.js": "/teste-frontend-MILO/static/js/main.08d1f1e2.js",
+    "main.css": "/teste-frontend-MILO/static/css/main.baf7133d.css",
+    "main.js": "/teste-frontend-MILO/static/js/main.9969faab.js",
     "static/media/LARANJA.png": "/teste-frontend-MILO/static/media/LARANJA.e33debaef8e8436fdcd8.png",
     "static/media/download-planilha.png": "/teste-frontend-MILO/static/media/download-planilha.f1988dbb478ce5e279b0.png",
     "static/media/rota.png": "/teste-frontend-MILO/static/media/rota.426ba99ab206b808dc9c.png",
@@ -65,11 +65,11 @@
     "static/media/roboto-greek-ext-500-normal.woff": "/teste-frontend-MILO/static/media/roboto-greek-ext-500-normal.2b2e1b55c141371f1d4c.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/teste-frontend-MILO/static/media/roboto-greek-ext-700-normal.f54f1cebdcefe4af6446.woff",
     "index.html": "/teste-frontend-MILO/index.html",
-    "main.d4ce24a6.css.map": "/teste-frontend-MILO/static/css/main.d4ce24a6.css.map",
-    "main.08d1f1e2.js.map": "/teste-frontend-MILO/static/js/main.08d1f1e2.js.map"
+    "main.baf7133d.css.map": "/teste-frontend-MILO/static/css/main.baf7133d.css.map",
+    "main.9969faab.js.map": "/teste-frontend-MILO/static/js/main.9969faab.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4ce24a6.css",
-    "static/js/main.08d1f1e2.js"
+    "static/css/main.baf7133d.css",
+    "static/js/main.9969faab.js"
   ]
 }
